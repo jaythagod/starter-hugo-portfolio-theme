@@ -44,6 +44,8 @@ experience:
     date_start: '2022-01-01'
     date_end: '2020-06-30'
     description: |2- 
+        Responsibilities include:
+
         * Participated in Java-based backend development with fully remote team members.
         * Participated in delivering a full fledged web based water testing solution. 
         * Collaborated with UI/UX and frontend teams to integrate frontend interfaces with backend microservices.
@@ -56,6 +58,8 @@ experience:
     date_start: '2022-01-01'
     date_end: '2020-06-30'
     description: |2-
+        Responsibilities include:
+
         * Documented generator submodule for VSXu audio visualizer. 
         * Developed a tool that creates MD+HTML pages out of JSON documentation.
         * Made HTML page values possible to edit.
@@ -69,6 +73,8 @@ experience:
     date_start: '2016-09-01'
     date_end: '2017-12-31'
     description: |2-
+        Responsibilities include:
+
         * Front-end design, development and implementation of web interfaces. 
         * Back-end logic design and implementation of  scripts to handle various user requests. 
         * Application database design and management.
@@ -81,6 +87,8 @@ experience:
     date_start: '2016-06-01'
     date_end: '2016-08-31'
     description: |2-
+        Responsibilities include:
+
         * Assisted in ensuring delivery of products/promo within agreed quality and time on assigned projects. 
         * Assisted in scheduling of products and initiatives. 
         * Timely reporting of products. 
@@ -94,6 +102,8 @@ experience:
     date_start: '2014-06-01'
     date_end: '2016-05-31'
     description: |2- 
+        Responsibilities include:
+        
         * Front-end design, development and implementation of web interfaces. 
         * Back-end logic design and implementation of  scripts to handle various user requests. 
         * Application database design and management.
