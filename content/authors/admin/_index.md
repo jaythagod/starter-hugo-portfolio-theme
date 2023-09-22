@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jude Gyimah
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,8 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Autonomous systems engineering, Goal-oriented mission specification design, Feature-Oriented Software Development and Adaptive systems design all in the context of service
+robots, automotive and system software design.
 
 #interests:
 #- Artificial Intelligence
@@ -66,8 +67,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jude Gyimah is a a robotics software engineering researcher and a software engineer that applies relevant knowledge, skills and technologies to improve the design and implementation of software systems by automating software engineering for the next generation of intelligent, autonomous, and variant-rich software systems.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
