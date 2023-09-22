@@ -18,8 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Autonomous systems engineering, Goal-oriented mission specification design, Feature-Oriented Software Development and Adaptive systems design all in the context of service
-robots, automotive and system software design.
+bio: My interests include Autonomous systems engineering.
 
 #interests:
 #- Artificial Intelligence
