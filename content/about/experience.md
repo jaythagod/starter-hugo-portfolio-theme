@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Robotics Software Engineering Researcher
-    company: Ruhr Universität
+    company: Ruhr University
     company_url: ''
     company_logo: org-x
     location: Bochum
@@ -40,7 +40,7 @@ experience:
     company: Vattn AB
     company_url: ''
     company_logo: org-x
-    location: Göteborg
+    location: Gothenburg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
     description: |2- 
@@ -54,7 +54,7 @@ experience:
     company: Vovoid Media Technologies AB
     company_url: ''
     company_logo: org-x
-    location: Göteborg
+    location: Gothenburg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
     description: |2-
@@ -103,7 +103,7 @@ experience:
     date_end: '2016-05-31'
     description: |2- 
         Responsibilities include:
-        
+
         * Front-end design, development and implementation of web interfaces. 
         * Back-end logic design and implementation of  scripts to handle various user requests. 
         * Application database design and management.
