@@ -22,65 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Robotics Software Engineering Researcher"
-    company: "Ruhr University"
+  - title: Robotics Software Engineering Researcher
+    company: Ruhr University
     company_url: ''
     company_logo: org-x
     location: Bochum
     date_start: '2023-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Engineering robotic applications
-        * Designing robotic systems
-        * Building variant-rich robotic applications
+    description: Engineering robotic applications, designing robotic systems and building variant-rich robotic applications.
 
-  - title: "Backend Software Developer"
-    company: "Vattn AB"
+  - title: Backend Software Developer
+    company: Vattn AB
     company_url: ''
     company_logo: org-x
     location: Gothenburg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
-    description: |2- 
-        Responsibilities include:
+    description: Java-based backend development of web based water testing solution. 
 
-        * Participated in Java-based backend development with fully remote team members.
-        * Participated in delivering a full fledged web based water testing solution. 
-        * Collaborated with UI/UX and frontend teams to integrate frontend interfaces with backend microservices.
-
-  - title: "Application Developer"
-    company: "Vovoid Media Technologies AB"
+  - title: Application Developer
+    company: Vovoid Media Technologies AB
     company_url: ''
     company_logo: org-x
     location: Gothenburg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
-    description: |2-
-        Responsibilities include:
+    description: Developed a tool that creates MD+HTML pages out of JSON documentation.
 
-        * Documented generator submodule for VSXu audio visualizer. 
-        * Developed a tool that creates MD+HTML pages out of JSON documentation.
-        * Made HTML page values possible to edit.
-        * Added graphical representation of module to documentation.
-
-  - title: "Full-Stack Web Developer"
-    company: "Ghana Technology University College"
+  - title: Full-Stack Web Developer
+    company: Ghana Technology University College
     company_url: ''
     company_logo: org-x
     location: Ghana
     date_start: '2016-09-01'
     date_end: '2017-12-31'
-    description: |2-
-        Responsibilities include:
+    description: Front-end design, back-end logic implementation and application database design and management.
 
-        * Front-end design, development and implementation of web interfaces. 
-        * Back-end logic design and implementation of  scripts to handle various user requests. 
-        * Application database design and management.
-
-  - title: "New Product Development Executive"
-    company: "Airtel Ghana Limited"
+  - title: New Product Development Executive
+    company: Airtel Ghana Limited
     company_url: ''
     company_logo: org-x
     location: Ghana
@@ -94,19 +73,14 @@ experience:
         * Timely reporting of products. 
         * Execution with guidance from Product Development and Innovation office.
 
-  - title: "Full-Stack Web Developer"
-    company: "Ghana Technology University College"
+  - title: Full-Stack Web Developer
+    company: Ghana Technology University College
     company_url: ''
     company_logo: org-x
     location: Ghana
     date_start: '2014-06-01'
     date_end: '2016-05-31'
-    description: |2- 
-        Responsibilities include:
-
-        * Front-end design, development and implementation of web interfaces. 
-        * Back-end logic design and implementation of  scripts to handle various user requests. 
-        * Application database design and management.
+    description: Front-end design, back-end logic implementation and application database design and management.
 
 design:
   columns: '1'
