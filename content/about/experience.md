@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Robotics Software Engineering Researcher
-    company: Ruhr University
+  - title: "Robotics Software Engineering Researcher"
+    company: "Ruhr University"
     company_url: ''
     company_logo: org-x
     location: Bochum
@@ -36,8 +36,8 @@ experience:
         * Designing robotic systems
         * Building variant-rich robotic applications
 
-  - title: Backend Software Developer
-    company: Vattn AB
+  - title: "Backend Software Developer"
+    company: "Vattn AB"
     company_url: ''
     company_logo: org-x
     location: Gothenburg
@@ -50,8 +50,8 @@ experience:
         * Participated in delivering a full fledged web based water testing solution. 
         * Collaborated with UI/UX and frontend teams to integrate frontend interfaces with backend microservices.
 
-  - title: Application Developer
-    company: Vovoid Media Technologies AB
+  - title: "Application Developer"
+    company: "Vovoid Media Technologies AB"
     company_url: ''
     company_logo: org-x
     location: Gothenburg
@@ -65,8 +65,8 @@ experience:
         * Made HTML page values possible to edit.
         * Added graphical representation of module to documentation.
 
-  - title: Full-Stack Web Developer
-    company: Ghana Technology University College
+  - title: "Full-Stack Web Developer"
+    company: "Ghana Technology University College"
     company_url: ''
     company_logo: org-x
     location: Ghana
@@ -79,8 +79,8 @@ experience:
         * Back-end logic design and implementation of  scripts to handle various user requests. 
         * Application database design and management.
 
-  - title: New Product Development Executive
-    company: Airtel Ghana Limited
+  - title: "New Product Development Executive"
+    company: "Airtel Ghana Limited"
     company_url: ''
     company_logo: org-x
     location: Ghana
@@ -94,8 +94,8 @@ experience:
         * Timely reporting of products. 
         * Execution with guidance from Product Development and Innovation office.
 
-  - title: Full-Stack Web Developer
-    company: Ghana Technology University College
+  - title: "Full-Stack Web Developer"
+    company: "Ghana Technology University College"
     company_url: ''
     company_logo: org-x
     location: Ghana
