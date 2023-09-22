@@ -43,8 +43,9 @@ experience:
     location: Göteborg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
-    description: Java-based backend development with fully remote teams of independent software developers to design,
-    develop and deliver a swedish water testing web solution applications. Collaborate with UI/UX and frontend team to integrate frontend interfaces with backend microservices.
+    description: |2- 
+      Java-based backend development with fully remote teams of independent software developers to design,
+      develop and deliver a swedish water testing web solution applications. Collaborate with UI/UX and frontend team to integrate frontend interfaces with backend microservices.
 
   - title: Application Developer
     company: Vovoid Media Technologies AB
@@ -53,7 +54,8 @@ experience:
     location: Göteborg
     date_start: '2022-01-01'
     date_end: '2020-06-30'
-    description: Document generator submodule for VSXu audio visualizer, Documentation JSON export, Created a tool
+    description: |2-
+      Document generator submodule for VSXu audio visualizer, Documentation JSON export, Created a tool
       that creates MD+HTML pages out of JSON documentation, Made HTML page values possible to edit, Added graphical representation of module to documentation.
 
   - title: Full-Stack Web Developer
@@ -63,7 +65,8 @@ experience:
     location: Ghana
     date_start: '2016-09-01'
     date_end: '2017-12-31'
-    description: Front-end design, development and implementation of web interfaces. Back-end logic design and implementation of  scripts to handle various user requests. Application database design and management.
+    description: |2-
+      Front-end design, development and implementation of web interfaces. Back-end logic design and implementation of  scripts to handle various user requests. Application database design and management.
 
   - title: New Product Development Executive
     company: Airtel Ghana Limited
@@ -72,8 +75,9 @@ experience:
     location: Ghana
     date_start: '2016-06-01'
     date_end: '2016-08-31'
-    description: Assist in ensuring delivery of products/promo within agreed quality and time on assigned projects. Assist in
-    scheduling of products and initiatives. Timely reporting of products. Execution with guidance from Product Development and Innovation office.
+    description: |2-
+      Assist in ensuring delivery of products/promo within agreed quality and time on assigned projects. Assist in
+      scheduling of products and initiatives. Timely reporting of products. Execution with guidance from Product Development and Innovation office.
 
   - title: Full-Stack Web Developer
     company: Ghana Technology University College
@@ -82,7 +86,8 @@ experience:
     location: Ghana
     date_start: '2014-06-01'
     date_end: '2016-05-31'
-    description: Front-end design, development and implementation of web interfaces. Back-end logic design and implementation of scripts to handle various user requests. Application database design and management.
+    description: |2- 
+      Front-end design, development and implementation of web interfaces. Back-end logic design and implementation of scripts to handle various user requests. Application database design and management.
 
 design:
   columns: '1'
