@@ -66,7 +66,7 @@ social:
 #email: ""
 ---
 
-I am a robotics software engineering researcher. I design and build applications applicable in service robots, automotive and system software. I am particularly intersted in Autonomous Systems Engineering, Domain-specific language design,
+I am a robotics software engineering researcher. I design and build applications applicable in service robots, automotive and system software. I am particularly interested in Autonomous Systems Engineering, Domain-specific language design,
 Feature-Oriented Software Development and Adaptive Systems. In my work, i apply relevant knowledge, skills and technologies to improve the design and implementation of software systems by automating software engineering for the next generation of intelligent, autonomous, and variant-rich software systems.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
