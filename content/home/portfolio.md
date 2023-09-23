@@ -31,7 +31,7 @@ content:
     - name: Robotics
       tag: DSL
     - name: Web
-      tag: node.js
+      tag: node
     - name: Mobile
       tag: android
 
