@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Robotics
-      tag: DSL
+      tag: robo
     - name: Web
-      tag: node
+      tag: web
     - name: Mobile
-      tag: android
+      tag: mob
 
 design:
   columns: '1'
